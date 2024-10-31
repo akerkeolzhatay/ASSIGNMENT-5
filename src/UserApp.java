@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class UserApp {
     private UserView view = new UserView();
     private UserViewModel viewModel = new UserViewModel();
