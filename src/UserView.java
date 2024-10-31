@@ -2,7 +2,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class UserView {
-
     private Scanner scanner = new Scanner(System.in);
 
     public int showMenu() {
