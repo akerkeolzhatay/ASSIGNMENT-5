@@ -23,7 +23,7 @@ public class UserApp {
                     view.displayUsers(viewModel.getUsers());
                     break;
                 case 3:
-                    System.out.println("Exiting...");
+                    System.out.println("Exiting... ");
                     return;
                 default:
                     System.out.println("Invalid option. Please try again.");
